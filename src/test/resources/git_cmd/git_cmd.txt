@@ -1,0 +1,7 @@
+-> git init 
+-> git remote add origin <url>
+-> .gitignore
+
+-> git add .
+-> git commit -m "commit mesg"
+-> git push origin master
