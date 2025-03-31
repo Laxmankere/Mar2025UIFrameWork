@@ -5,3 +5,10 @@
 -> git add .
 -> git commit -m "commit mesg"
 -> git push origin master
+
+
+------------------------------------
+first time if you are new to git 
+
+-> git config --global user.email "lk@gmail.com"
+-> git config --global user.name "lucky"
