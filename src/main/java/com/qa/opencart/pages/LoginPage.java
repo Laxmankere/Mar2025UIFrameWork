@@ -20,7 +20,6 @@ public class LoginPage {
 	
 
 	// 2. public page constructor
-
 	public LoginPage(WebDriver driver) {
 		this.driver = driver;
 		eleUtil = new ElementUtil(driver);
